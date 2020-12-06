@@ -103,6 +103,15 @@ a{
   color: #11999E;
 }
 
+.make-small{
+  width: 50%;
+  margin: auto;
+}
+
+.contact-before-padding{
+  padding-bottom: 20px;
+}
+
 .skill-row{
   width: 50%;
   margin: 100px auto 100px auto;
